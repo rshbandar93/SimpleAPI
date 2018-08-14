@@ -1,0 +1,13 @@
+{
+   "name": "SimpleAPI",
+   "description": "Simple API Node.js to test CI/CD using Jenkins",
+   "version": "0.0.1",
+   "private": true,
+   "dependencies": {
+      "express": "^4.16.3"
+   },
+   "devDependencies": {
+      "mocha": "^5.2.0",
+      "supertest": "^3.1.0"
+   }
+}
